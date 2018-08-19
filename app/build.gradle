@@ -26,6 +26,6 @@ dependencies {
     compile 'com.squareup.retrofit2:retrofit:2.0.0'
     compile 'com.squareup.retrofit2:converter-gson:2.0.0'
 
-//    compile 'cn.ziyeyouhu.android:sweet-alert-dialog:1.0'
+//    compile 'cn.ziyeyouhu.android:sweet-alert-dialog:1.0'  1111111111111
 
 }
